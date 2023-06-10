@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mukesh Vishwakarma</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshvishwakarma27&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshvishwakarma27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshvishwakarma27&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshvishwakarma271" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science and Front-end Web-Development**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Intermediate Python**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
-- 💬 Ask me about **Nothing rn**
+- 💬 Ask me about **Web Development and Python**
 
 - 📫 How to reach me **hehemukeshmain@gmail.com**
 
